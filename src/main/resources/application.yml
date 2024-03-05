@@ -1,0 +1,4 @@
+paypal:
+  client-id: AcTAv4AY8b3TfPkGDqfpRq5cGNyuu07ikRbt4T4lcE0EvYm_GdOCGtWuHQ-jnu55rEYqxjEZev-5wvOn
+  client-secret: EG2tZZgu8qDVgeKsC6KYlFWAfvowUp24t15zp1i3fjBVz_4Ny3SB7B7D3bXWK2Z7amtY1KmywwObBVMr
+  mode: sandbox
